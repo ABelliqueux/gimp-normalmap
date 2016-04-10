@@ -1,3 +1,12 @@
+This is the vanilla gimp-normalmap plugin, with a modified Makefile so that it 
+builds on Debian Jessie without error.
+
+You also have to install the following libraries :
+
+build-essential libglew-dev libgtkglext1-dev libgimp2.0-dev 
+
+
+
 GIMP normalmap plugin
 (C) 2002-2012 Shawn Kirst <skirst@gmail.com>
 ==========================================
